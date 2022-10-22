@@ -1,0 +1,11 @@
+print("***************PROGRAMMED BY**************")
+print("********Kevin Joseph G. Concepcion********")
+print("*****************BSCOE 2-2****************")
+print("**********Sir Danilo Madrigalejos*********\n")
+
+print("**         **   ********   **    **")
+print(" **       **       **      ***   **")
+print("  **     **        **      ** *  **")
+print("   **   **         **      **  * **")
+print("    ** **          **      **   ***")
+print("     **         ********   **    **")
